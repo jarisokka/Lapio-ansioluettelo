@@ -3,7 +3,7 @@ body{
     max-width: 50em;
     font-family: 'Normal', 'Calibri', sans-serif;   
     line-height: 1.5;
-    padding: 3em 1em;
+    padding: 2em 0.5em;
     color: #555;   
 }
 h1 {
@@ -12,7 +12,12 @@ h1 {
 h2 {
     color: #333;
 }
+h4 {
+    color: #333;
+}
+
 .upsidebar {
+    text-transform: h1 uppercase;
     font-size: 12px;
     padding-top: 50px;
     width: 200px;
@@ -39,7 +44,7 @@ h2 {
 .centerbar {
     width: 600px;
     height: 800px;
-    text-align: center;
+    text-align: left;
     left: 600px;
     position: absolute;
 }
