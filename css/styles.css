@@ -1,23 +1,29 @@
 body{
     margin: 0 auto;
     max-width: 50em;
-    font-family: 'Normal', 'Calibri', sans-serif;   
-    line-height: 1.5;
+    font-family: 'Normal', 'Calibri', sans-serif;
+    line-height: 120%;   
     padding: 2em 0.5em;
     color: #555;   
 }
+
 h1 {
     color: #333;
+    text-transform: uppercase;
 }
-h2 {
+
+h3 {
     color: #333;
+    text-transform: uppercase;
+
 }
+
 h4 {
     color: #333;
+    text-transform: uppercase;
 }
 
 .upsidebar {
-    text-transform: h1 uppercase;
     font-size: 12px;
     padding-top: 50px;
     width: 200px;
