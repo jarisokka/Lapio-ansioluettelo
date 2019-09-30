@@ -1,0 +1,45 @@
+body{
+    margin: 0 auto;
+    max-width: 50em;
+    font-family: 'Normal', 'Calibri', sans-serif;   
+    line-height: 1.5;
+    padding: 3em 1em;
+    color: #555;   
+}
+h1 {
+    color: #333;
+}
+h2 {
+    color: #333;
+}
+.upsidebar {
+    font-size: 12px;
+    padding-top: 50px;
+    width: 200px;
+    height: 150px;
+    text-align: center;
+}
+.sidebar {
+    font-size: 12px;
+    padding-top: 50px;
+    text-align: center;
+    width: 200px;
+    height: 800px;
+    background-color: darkblue;
+
+}
+.upcenterbar {
+    width: 600px;
+    height: 150px;
+    left: 600px;
+    top: 50px;
+    position: absolute;
+
+}
+.centerbar {
+    width: 600px;
+    height: 800px;
+    text-align: center;
+    left: 600px;
+    position: absolute;
+}
